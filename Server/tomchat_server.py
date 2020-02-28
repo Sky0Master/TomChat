@@ -1,6 +1,6 @@
 import time
 import socket,threading
-users={}  #用户字典`
+users={}  #用户字典
 PORT=20000
 max_connection=100
 HOST=socket.gethostname()
